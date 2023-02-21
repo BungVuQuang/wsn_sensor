@@ -1,5 +1,6 @@
 | Supported Targets | ESP32 |
 | ----------------- | ----- |
+
 Link GitHub: https://github.com/BungVuQuang/wsn_sensor
 # Giới thiệu chung
 Dự án này được viết nhằm mục đích tạo ra 1 Node cảm biến đo nhiệt độ DS18B20 sử dụng công nghệ truyền thông BLE để truyền tin, sử dụng pin làm nguồn nuôi
